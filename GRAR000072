@@ -1,0 +1,2398 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>Sententiae (version Men ar I)</title>
+ <author>pseudo-Menander</author>
+ <editor>Manfred Ullmann</editor>
+ <funder>Andrew W. Mellon Foundation</funder>
+ </titleStmt>
+ <sourceDesc>
+ <biblStruct>
+ <monogr>
+ <author>pseudo-Menander</author>
+ <title>Die arabische Überlieferung der sogenannten
+~~Menandersentenzen</title>
+ <editor>Manfred Ullmann</editor>
+ <imprint>
+ <pubPlace>Wiesbaden</pubPlace>
+ <publisher>Kommissionsverlag Franz Steiner</publisher>
+ <biblScope unit="pp" from="17" to="59">17-59</biblScope>
+ <date>1961</date>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <editorialDecl default="NO">
+ <correction status="high" default="NO" method="silent">
+ <p>Data Entry</p>
+ </correction>
+ </editorialDecl>
+ <refsDecl n="text=1" doctype="TEI.2">
+ <state unit="text"/>
+ <state unit="chapter" n="chunk"/>
+ <state unit="sentence"/>
+ </refsDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage default="NO">
+ <language id="arabic">Arabic</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+
+<text lang="arabic" id="tlg0541.perseus001.alpheios-text-ara1"><body>
+
+<pb n="17"/>
+
+<div1 type="chapter" n="1">
+<head>
+Α
+</head>
+
+<div2 type="sentence" n="1">
+<p>
+ينبغى للإنسان أن يفهم الأمور الإنسانية
+(Št 1, Mḫb 1)
+</p>
+</div2>
+<div2 type="sentence" n="2">
+<p>
+إن الأدب للإنسان ذخر لا يسلب
+(bH 1, Št 2, Mḫb 2)
+</p>
+</div2>
+<div2 type="sentence" n="3">
+<p>
+ارفع من عمرك ما يحزنك
+(Št 3, Mṣr 8, Mḫb 3, Šz 1)
+</p>
+</div2>
+<div2 type="sentence" n="4">
+<p>
+إن أمور العالم تعلمك العلم
+(Št 4, Šz 2)
+</p>
+</div2>
+<div2 type="sentence" n="5">
+<p>
+إن كنت ميتا فلا تحقر عداوة من لا يموت
+(Št 5)
+</p>
+</div2>
+<div2 type="sentence" n="6">
+<p>
+إن الأحرار يكتفون بأن يسمعوا الشىء مرة واحدة
+(bH 2, Mḫb 4)
+</p>
+</div2>
+
+<pb n="18"/>
+
+<div2 type="sentence" n="7">
+<p>
+كل ربح يكون من ظلم فهو جالب مضرة
+(bH 3, Mșr 4, Šz 3)
+</p>
+</div2>
+<div2 type="sentence" n="8">
+<p>
+كل ما يختار فى وقته يفرح به
+(Št 6, Šz 4)
+</p>
+</div2>
+<div2 type="sentence" n="9">
+<p>
+إن أحسنت الصبر على الأعراض كنت سعيدا
+(Šz 5)
+</p>
+</div2>
+<div2 type="sentence" n="10">
+<p>
+من أحسن إليه فلم يذكر كان غير الشكور
+(Šz 6)
+</p>
+</div2>
+<div2 type="sentence" n="11">
+<p>
+إن الزمان يبين الحق وينيره
+(Št 7, Šz 7)
+</p>
+</div2>
+<div2 type="sentence" n="12">
+<p>
+من لم يهتم بمعاشه لم تحسن أخلاقه
+(bH 4, Mḫb 5, Šz 8)
+</p>
+</div2>
+<div2 type="sentence" n="13">
+<p>
+إن العقل أيدا كنز خير عظيم
+(Mḫb 6, Šz 9)
+</p>
+</div2>
+<div2 type="sentence" n="14">
+<p>
+من احتمل المصائب احتمالا ضديدا فهو رجل
+(Mḫb 7, Šz 10)
+</p>
+</div2>
+
+<pb n="19"/>
+
+<div2 type="sentence" n="15">
+<p>
+إن الله منتقم من الأشرار
+(Mḫb 8, Šz 11)
+</p>
+</div2>
+<div2 type="sentence" n="16">
+<p>
+كثيرا ما يدخل الضرر على الناس بتركهم المشورة
+(Šz 12)
+</p>
+</div2>
+<div2 type="sentence" n="17">
+<p>
+أذكر نفسك أبدا أنك إنسان
+(Št 8)
+</p>
+</div2>
+<div2 type="sentence" n="18">
+<p>
+لا تعذل أحدا قبل أن تفحص عن أمره
+(Šz 13)
+</p>
+</div2>
+<div2 type="sentence" n="19">
+<p>
+لا تدع الأشياء الظاهرة فتطلب ما ليس بظاهر
+(Mḫb 9, Šz 14)
+</p>
+</div2>
+<div2 type="sentence" n="20">
+<p>
+إن الرجل الشرير شقى وإن ظن به أنه سعيد
+(Mḫb 10)
+</p>
+</div2>
+<div2 type="sentence" n="21">
+<p>
+إن كنت إنسانا فافهم كيف تضبط غضبك
+(Št 9, Mḫb 11)
+</p>
+</div2>
+<div2 type="sentence" n="22">
+<p>
+إن الغضب أوضع جميع الأشياء
+(Mḫb 12)
+</p>
+</div2>
+<div2 type="sentence" n="23">
+<p>
+لا تفعل فعلا قبيحا البتة ولا تتعلمه
+(Mḫb 13)
+</p>
+</div2>
+
+<pb n="20"/>
+
+<div2 type="sentence" n="24">
+<p>
+إن الأدب يؤنس كل شىء
+(Mḫb 14, Šz 15)
+</p>
+</div2>
+<div2 type="sentence" n="25">
+<p>
+اهرب من مشورة الرجل الشرير
+(Mḫb 15, Šz 16)
+</p>
+</div2>
+<div2 type="sentence" n="26">
+<p>
+اكتب أيمان الرجال الكذبة على الماء
+(Mṣr 1, Mḫb 16)
+</p>
+</div2>
+<div2 type="sentence" n="27">
+<p>
+إذا نالتك مضرة فاعلم أنك كنت أهلها
+(Št 10, Mṣr 2, Mḫb 17, Šz 17)
+</p>
+</div2>
+<div2 type="sentence" n="28">
+<p>
+قد يعلم مذهب الرجل من كلامه
+(Mṣr 3, Mḫb 18, Šz 18)
+</p>
+</div2>
+<div2 type="sentence" n="29" name="29-30">
+<p>
+الرجل العادل ليس هو الذى لا يظلم بل الذى يقوى أن يظلم فلا يرضاه ولا يختاره
+(bH 5/6, Šz 19/20)
+</p>
+</div2>
+
+<pb n="21"/>
+
+<div2 type="sentence" n="31">
+<p>
+الكبر يفسد قوة الجسد
+(bH 7)
+</p>
+</div2>
+<div2 type="sentence" n="32">
+<p>
+إن معرفة الأمور الحسنة لشىء فاضل
+(Šz 21)
+</p>
+</div2>
+<div2 type="sentence" n="33">
+<p>
+لا ينال الناس شيئا من المكروه بغير سبب
+(Šz 22)
+</p>
+</div2>
+<div2 type="sentence" n="34">
+<p>
+إن الذى يهرب من القتال فيرجع فيقاتل لرجل
+(Šz 23)
+</p>
+</div2>
+<div2 type="sentence" n="35">
+<p>
+الرجل الخير لا يبغض الخير أبدا
+(Šz 24)
+</p>
+</div2>
+<div2 type="sentence" n="36">
+<p>
+إن محبى المال ليست لهم حرية
+(Mḫb 19, Šz 25)
+</p>
+</div2>
+<div2 type="sentence" n="37">
+<p>
+إن الرجل الشقى يعيش بالمنى
+(bH 8, Mṣr 5, Mḫb 20, Šz 26)
+</p>
+</div2>
+<div2 type="sentence" n="38">
+<p>
+إن القول الحسن هو دواء الغضب
+(Mṣr 6, Mḫb 21, Šz 27)
+</p>
+</div2>
+<div2 type="sentence" n="39">
+<p>
+إن الرجل يسلم الرجل والمدينة تسلم المدينة
+(Mḫb 22)
+</p>
+</div2>
+
+<pb n="22"/>
+
+<div2 type="sentence" n="40">
+<p>
+لا تتخذ صديقا الرجل الذى ليس عنده شكر
+(Mḫb 23)
+</p>
+</div2>
+<div2 type="sentence" n="41">
+<p>
+إن الإنسان الشرير لا يرق أحشاءه على أحد
+(Mḫb 24)
+</p>
+</div2>
+<div2 type="sentence" n="42" name="42-43">
+<p>
+كل من حسنت حاله أحبه الأصدقاء
+(bH 9, Šz 28)
+الرجل إذا ساءت حاله هرب الأصدقاء منه
+(Mḫb 25, Šz 29)
+</p>
+</div2>
+<div2 type="sentence" n="44">
+<p>
+الرجاء غالب على الفراغ من الناس
+(Šz 30)
+</p>
+</div2>
+<div2 type="sentence" n="45">
+<p>
+ابتداء كل عفة مراقبة الله تعالى
+(bH 35)
+</p>
+</div2>
+</div1>
+
+<pb n="23"/>
+
+<div1 type="chapter" n="2">
+<head>
+B
+</head>
+
+<div2 type="sentence" n="46">
+<p>
+ليس لشىء من العمر الفانى ثبات
+(Mḫb 26)
+</p>
+</div2>
+<div2 type="sentence" n="47">
+<p>
+اسلك الطريق المستقيم لتكون خيرا
+(Mḫb 27)
+</p>
+</div2>
+<div2 type="sentence" n="48">
+<p>
+اطلب رضى كل أحد لا رضى نفسك فقط
+(Št 11)
+</p>
+</div2>
+<div2 type="sentence" n="49">
+<p>
+كلنا نريد الغنى لكنا لا نقدر عليه
+(Mṣr 7, Mḫb 28)
+</p>
+</div2>
+<div2 type="sentence" n="50">
+<p>
+إن العمر هو الذى يعمر صاحبه بالفرح
+(Mḫb 29, Šz 31)
+</p>
+</div2>
+<div2 type="sentence" n="51">
+<p>
+إن العمر سمى عمرا لأنه يكتسب بمشقة
+(Mḫb 30)
+</p>
+</div2>
+<div2 type="sentence" n="52">
+<p>
+جميع الناس تدينهم معرفتهم بأنفسهم كما يدينهم الله
+(Šz 32)
+</p>
+</div2>
+<div2 type="sentence" n="53">
+<p>
+من استعمل العدل فى عمره تكون آخرته آخرة صالحة
+(Mḫb 31, Šz 33)
+</p>
+</div2>
+<div2 type="sentence" n="54">
+<p>
+كن رزينا وتخذ الأصدقاء بالرزانة
+(Mḫb 32, Šz 34)
+</p>
+</div2>
+
+<pb n="24"/>
+
+<div2 type="sentence" n="55">
+<p>
+ليس شىء أصح من الرأى الصحيح
+(Mḫb 33)
+</p>
+</div2>
+<div2 type="sentence" n="56">
+<p>
+إن الموت واجب على جميع الناس كلهم
+(Mḫb 34)
+</p>
+</div2>
+<div2 type="sentence" n="57">
+<p>
+عمر يحتاج إلى عمر غيره ليس بعمر
+(bH 10, Šz 35)
+</p>
+</div2>
+<div2 type="sentence" n="58">
+<p>
+مرض الجسد أصلح من مرض النفس
+(bH 11, Mḫb 35)
+</p>
+</div2>
+<div2 type="sentence" n="59">
+<p>
+إن المرأة تقصر عمر الرجال
+(Mḫb 36, Šz 36)
+</p>
+</div2>
+<div2 type="sentence" n="60">
+<p>
+إن لم تكن لك امرأة عشت عمرا صالحا
+(Mḫb 37, Šz 37)
+</p>
+</div2>
+</div1>
+
+<div1 type="chapter" n="3">
+<head>
+Г
+</head>
+
+<div2 type="sentence" n="61">
+<p>
+زينة كل امرأة سكوتها
+(bH 12, Mḫb 38, Šz 38)
+</p>
+</div2>
+<div2 type="sentence" n="62">
+<p>
+إن بالمرأة الصالحة يسلم المنزل
+(Mḫb 39, Šz 39)
+</p>
+</div2>
+<div2 type="sentence" n="63">
+<p>
+إن الضحك فى غير وقته هو ابن عم البكاء
+(Št 12, Mṣr 9, Mḫb 40, Šz 40)
+</p>
+</div2>
+
+<pb n="25"/>
+
+<div2 type="sentence" n="64">
+<p>
+إن الأرض تلد كل شىء ثم تسترده
+(Št 13, Mṣr 10, Šz 41)
+</p>
+</div2>
+<div2 type="sentence" n="65">
+<p>
+الشيخ العاشق هو فى غاية رداءة البخت
+(Mḫb 41, Šz 42)
+</p>
+</div2>
+<div2 type="sentence" n="66">
+<p>
+من تزوج فإنه سيندم
+(Mḫb 42, Šz 43)
+</p>
+</div2>
+<div2 type="sentence" n="67">
+<p>
+إن المرأة العادلة هى سلامة العمر
+(Mḫb 43, Šz 44)
+</p>
+</div2>
+<div2 type="sentence" n="68">
+<p>
+وجود المرأة الخيرة ليس بسهل
+(bH 13, Mḫb 44, Šz 45)
+</p>
+</div2>
+<div2 type="sentence" n="69">
+<p>
+تدفن المرأة أصلح من أن تتزوج بها
+(Mḫb 45, Šz 46)
+</p>
+</div2>
+<div2 type="sentence" n="70">
+<p>
+إن المرأة على كل حال هى مطبوعة على الإفراط فى النفقة
+(Mḫb 46, Šz 47)
+</p>
+</div2>
+<div2 type="sentence" n="71">
+<p>
+تزوج بالمرأة لا بجهازها
+(Mḫb 47, Šz 48)
+</p>
+</div2>
+
+<pb n="26"/>
+
+<div2 type="sentence" n="72">
+<p>
+إن المرأة الصالحة ركن لبيتها
+(Mḫb 48)
+</p>
+</div2>
+<div2 type="sentence" n="73">
+<p>
+إن الناس يتزوجون بالجهاز لا بالنساء
+(Mḫb 49, Šz 49)
+</p>
+</div2>
+<div2 type="sentence" n="74">
+<p>
+إن الطبيعة لا تطلق الرياسة للنساء
+(Mḫb 50, Šz 50)
+</p>
+</div2>
+<div2 type="sentence" n="75">
+<p>
+إن المرأة سلامة بيتها وسبب عطبه
+(Mḫb 51)
+</p>
+</div2>
+<div2 type="sentence" n="76">
+<p>
+إذا أردت التزويج فانظر إلى الجيران
+(Mḫb 52, Šz 51)
+</p>
+</div2>
+<div2 type="sentence" n="77">
+<p>
+اللسان الردىء يكتسب لصاحبه غرامة
+(Mḫb 53)
+</p>
+</div2>
+<div2 type="sentence" n="78">
+<p>
+إن المرأة لا تشير بشىء البتة فيه صلاح
+(Mḫb 54, Šz 52)
+</p>
+</div2>
+<div2 type="sentence" n="79">
+<p>
+إن المرأة لا تعلم شيئا إلا ما تريده
+(Mṣr 11, Mḫb 55)
+</p>
+</div2>
+<div2 type="sentence" n="80">
+<p>
+إن رأى المشايخ أفضل من رأى الشبان
+(Mḫb 56)
+</p>
+</div2>
+<div2 type="sentence" n="81">
+<p>
+الأحمق يضحك وإن لم يكن شىء يضحك منه
+(Šz 53)
+</p>
+</div2>
+<div2 type="sentence" n="82">
+<p>
+إن المرأة تتملقك لتأخذ منك شيئا
+(Mḫb 57, Šz 54)
+</p>
+</div2>
+</div1>
+
+<pb n="27"/>
+
+<div1 type="chapter" n="4">
+<head>
+Δ
+</head>
+
+<div2 type="sentence" n="83">
+<p>
+اعدل لينالك العدل
+(Mṣr 12)
+</p>
+</div2>
+<div2 type="sentence" n="84">
+<p>
+من يخطئ فى الشىء مرتين ليس بحكيم
+(Mṣr 13, Šz 55)
+</p>
+</div2>
+<div2 type="sentence" n="85">
+<p>
+إذا سقطت شجرة احتطب كل من أراد
+(Mṣr 14, Šz 56)
+</p>
+</div2>
+<div2 type="sentence" n="86">
+<p>
+الأشرار تجزع من الحكيم
+(Šz 57)
+</p>
+</div2>
+<div2 type="sentence" n="87">
+<p>
+ينبغى أن تكون المحبة صادقة لا بالكلام
+(Šz 58)
+</p>
+</div2>
+<div2 type="sentence" n="88">
+<p>
+عند حسن الحال يجب ذكر الله وحده
+(Mḫb 58)
+</p>
+</div2>
+<div2 type="sentence" n="89">
+<p>
+إن أعطيت صاحب البخت قليلا أخذت منه كثيرا
+(Mṣr 15, Šz 59)
+</p>
+</div2>
+<div2 type="sentence" n="90">
+<p>
+إذا عدلت أعانك الله تعالى
+(Šz 60)
+</p>
+</div2>
+
+<pb n="28"/>
+
+<div2 type="sentence" n="91">
+<p>
+إن الرأى من الجبان جبان أيضا
+(bH 14, Št 14, Mṣr 16, Šz 61)
+</p>
+</div2>
+<div2 type="sentence" n="92">
+<p>
+إن المرأة مولاة من يتزوج بها
+(Mḫb 59, Šz 62)
+</p>
+</div2>
+<div2 type="sentence" n="93">
+<p>
+اطلب الشرف والفضيلة واهرب من الذم والرذيلة
+(Šz 63)
+</p>
+</div2>
+<div2 type="sentence" n="94">
+<p>
+الإنسان أقدر الحيوان على الحيلة
+(Šz 64)
+</p>
+</div2>
+<div2 type="sentence" n="95">
+<p>
+إذا كان مذهبك العدل استعملت السنة
+(Šz 65)
+</p>
+</div2>
+<div2 type="sentence" n="96">
+<p>
+إن البخت شىء عسر الوجود
+(Sz 66)
+</p>
+</div2>
+<div2 type="sentence" n="97">
+<p>
+اهرب من الرجل الفاسق فى جميع عمرك
+(Mḫb 60, Šz 67)
+</p>
+</div2>
+<div2 type="sentence" n="98">
+<p>
+السكوت يوجب الإقرار
+(Šz 68)
+</p>
+</div2>
+
+<pb n="29"/>
+
+<div2 type="sentence" n="99">
+<p>
+ليس شىء أردأ من المملوك وإن كان خيرهم
+(bH 15, Šz 69)
+</p>
+</div2>
+</div1>
+
+<div1 type="chapter" n="5">
+<head>
+Е
+</head>
+
+<div2 type="sentence" n="100">
+<p>
+النقمة عين ترى كل شىء
+(Šz 70)
+</p>
+</div2>
+<div2 type="sentence" n="101">
+<p>
+الخير يكثر فى الناس من استعمال التعب
+(Mṣr 18, Šz 71)
+</p>
+</div2>
+<div2 type="sentence" n="102">
+<p>
+إن الحكماء يفكرون فى الأمور بالليل
+(Šz 72)
+</p>
+</div2>
+<div2 type="sentence" n="103">
+<p>
+اصبر على الحزن والمضرة صبرا شديدا
+(Šz 73)
+</p>
+</div2>
+<div2 type="sentence" n="104">
+<p>
+انتقم من الأعداء نقمة لا تضرك
+(Št 15, Mṣr 17, Šz 74)
+</p>
+</div2>
+<div2 type="sentence" n="105">
+<p>
+كن حسن الجرأة ولا تكن متهورا
+(Št 16, Šz 75)
+</p>
+</div2>
+
+<pb n="30"/>
+
+<div2 type="sentence" n="106">
+<p>
+أعد أبدا ما تحتاج إليه لوقت كبرك
+(Šz 76)
+</p>
+</div2>
+<div2 type="sentence" n="107">
+<p>
+إن الجوع والفقر يقطعان العشق
+(bH 16, Mḫb 61, Šz 77)
+</p>
+</div2>
+<div2 type="sentence" n="108">
+<p>
+إن العشق مع الشبع لا مع الجوع
+(Mṣr 19, Mḫb 62, Šz 78)
+</p>
+</div2>
+<div2 type="sentence" n="109">
+<p>
+الرجل الخير محبب
+(Šz 79)
+</p>
+</div2>
+<div2 type="sentence" n="110">
+<p>
+قلما تجد الأمانة فى النساء
+(Mḫb 63, Šz 80)
+</p>
+</div2>
+<div2 type="sentence" n="111">
+<p>
+الرجاء غالب على كثير من الناس
+(Šz 81)
+</p>
+</div2>
+<div2 type="sentence" n="112">
+<p>
+إن فى الأشرار شيئا من اللذة
+(Mḫb 64)
+</p>
+</div2>
+<div2 type="sentence" n="113">
+<p>
+من الناس من يرى رأيا رديئا ويفعل فعلا حسنا
+(Šz 82)
+</p>
+</div2>
+
+<pb n="31"/>
+
+<div2 type="sentence" n="114">
+<p>
+إذا لم تصدق الأعداء لم تنلك مضرة
+(Mḫb 65, Šz 83)
+</p>
+</div2>
+<div2 type="sentence" n="115">
+<p>
+إن الله سميع لدعاء الحق
+(Mḫb 66, Šz 84)
+</p>
+</div2>
+<div2 type="sentence" n="116">
+<p>
+إن كانت لنا أموال صارت لنا أصدقاء
+(Mḫb 67, Šz 85)
+</p>
+</div2>
+<div2 type="sentence" n="117">
+<p>
+ليس عند الرجل العدو شىء من المنفعة
+(Mḫb 68)
+</p>
+</div2>
+<div2 type="sentence" n="118">
+<p>
+صير مذهبك مذهب الأحرار
+(Mḫb 69)
+</p>
+</div2>
+<div2 type="sentence" n="119">
+<p>
+من صاحب السكوت يستهان به
+(Šz 86)
+</p>
+</div2>
+<div2 type="sentence" n="120">
+<p>
+إن عبد المنزل هو رب المنزل وحده
+(Mṣr 20, Šz 87)
+</p>
+</div2>
+<div2 type="sentence" n="121">
+<p>
+من الناس من يبغض المحسن إليه
+(Mṣr 21, Šz 88)
+</p>
+</div2>
+<div2 type="sentence" n="122">
+<p>
+إذا كنت ميتا فلا تذهب مذهب من لا يموت
+(Št 17, Mṣr 22, Šz 89)
+</p>
+</div2>
+<div2 type="sentence" n="123">
+<p>
+إن لم تحفظ القليل أهلكت الكثير
+(Mṣr 23)
+</p>
+</div2>
+
+<pb n="32"/>
+
+<div2 type="sentence" n="124">
+<p>
+إن كنت ميتا فاعمل عمل من يموت
+(Šz 90)
+</p>
+</div2>
+<div2 type="sentence" n="125">
+<p>
+الصالح من الناس حسن الظن عند الشدائد
+(Šz 91)
+</p>
+</div2>
+<div2 type="sentence" n="126">
+<p>
+وجود الحكمة لا يكون إلا بعقل
+(Šz 92)
+</p>
+</div2>
+<div2 type="sentence" n="127">
+<p>
+لن يكسب الإنسان الحسنة إلا بالتعب
+(Šz 93)
+</p>
+</div2>
+</div1>
+
+<div1 type="chapter" n="6">
+<head>
+Z
+</head>
+
+<div2 type="sentence" n="128">
+<p>
+تحسن عيشك إن قهرت غضبك
+(Šz 94)
+</p>
+</div2>
+<div2 type="sentence" n="129">
+<p>
+إن ذوى الألباب يختارون الموت على الحيوة الرديئة
+(Šz 95)
+</p>
+</div2>
+<div2 type="sentence" n="130">
+<p>
+إن أردت أن تحيا فلا تعمل عملا يوجب الموت
+(Št 18)
+</p>
+</div2>
+<div2 type="sentence" n="131">
+<p>
+إن غيرة الرجل تفسد المنزل
+(Šz 96)
+</p>
+</div2>
+<div2 type="sentence" n="132">
+<p>
+إذا تزوجت فاطلب المرأة التى تعينك على الأمور
+(Mḫb 70, Šz 97)
+</p>
+</div2>
+
+<pb n="33"/>
+
+<div2 type="sentence" n="133">
+<p>
+إن الحيوة اللذيذة لا تهيأ للفاجر الشره
+(Mḫb 71, Šz 98)
+</p>
+</div2>
+<div2 type="sentence" n="134">
+<p>
+من حاول إفساد امرأة مزوجة فهو خارج من الحرية
+(Šz 99)
+</p>
+</div2>
+<div2 type="sentence" n="135">
+<p>
+ما كان ينبغى أن تعيش المرأة لأسباب كثيرة
+(Mḫb 72)
+</p>
+</div2>
+</div1>
+
+<div1 type="chapter" n="7">
+<head>
+H
+</head>
+
+<div2 type="sentence" n="136">
+<p>
+إن البطن يشبع قليلا وكثيرا
+(Šz 100)
+</p>
+</div2>
+<div2 type="sentence" n="137">
+<p>
+اهرب من الخلق الردىء ومن الربح القبيح
+(Šz 101)
+</p>
+</div2>
+<div2 type="sentence" n="138">
+<p>
+إذا أقبل الكبر جلب كل علة
+(Mḫb 73)
+</p>
+</div2>
+<div2 type="sentence" n="139">
+<p>
+إن سرعة الغضب فى الناس شر عظيم (على من يستعمله)
+(Mḫb 74)
+</p>
+</div2>
+
+<pb n="34"/>
+
+<div2 type="sentence" n="140">
+<p>
+الأب المتحمل المدارى لولده أحمد ممن يتجنى عليه ويغضب
+(Mḫb 75)
+</p>
+</div2>
+<div2 type="sentence" n="141">
+<p>
+إن الأخلاق الرديئة تغير الطبيعة المحمودة
+(Mḫb 76)
+</p>
+</div2>
+<div2 type="sentence" n="142">
+<p>
+إن محبة الأموال شىء لذيذ
+(Mḫb 77)
+</p>
+</div2>
+<div2 type="sentence" n="143">
+<p>
+إما أن لا تتزوج بتة أو تتزوج فتصونها
+(Mḫb 78, Šz 102)
+</p>
+</div2>
+<div2 type="sentence" n="144">
+<p>
+إن الوطن محبوب عند الناس
+(Mḫb 79)
+</p>
+</div2>
+<div2 type="sentence" n="145">
+<p>
+إن اللذة المفرطة تورث مضرة
+(Mḫb 80)
+</p>
+</div2>
+<div2 type="sentence" n="146">
+<p>
+إن النظر إلى حسن حال الرجل العادل لذيذ
+(Mḫb 81)
+</p>
+</div2>
+<div2 type="sentence" n="147">
+<p>
+إما أن لا تعمل شيئا تخفيه وإذا عملته تفردت به
+(Mṣr 25, Mḫb 82)
+</p>
+</div2>
+
+<pb n="35"/>
+
+<div2 type="sentence" n="148">
+<p>
+الزمان 〈محك〉 لأخلاق الناس
+(Šz 103)
+</p>
+</div2>
+<div2 type="sentence" n="149">
+<p>
+باللسان تفتح (؟) الشرور
+(Mḫb 83)
+</p>
+</div2>
+<div2 type="sentence" n="150">
+<p>
+إما أن لا تلعب بالنرد أو تحتمل ما يأتى به البخت
+(Mḫb 84, Šz 104)
+</p>
+</div2>
+<div2 type="sentence" n="151">
+<p>
+السكوت أمثل من القول بما لا ينبغى
+(Šz 105)
+</p>
+</div2>
+<div2 type="sentence" n="152">
+<p>
+إن الحمق يجلب الشر على الناس
+(Šz 106)
+</p>
+</div2>
+</div1>
+
+<div1 type="chapter" n="8">
+<head>
+Θ
+</head>
+
+<div2 type="sentence" n="153">
+<p>
+إذا كنت ميتا فلا تشمت بمن مات
+(Mṣr 26, Mḫb 85)
+</p>
+</div2>
+<div2 type="sentence" n="154">
+<p>
+إن الطبيعة كونت جميع الأشياء بإرادة الرب
+(Št 19, Mḫb 86, Šz 107)
+</p>
+</div2>
+<div2 type="sentence" n="155">
+<p>
+نريد بأجمعنا الحيوة الصالحة لكنا لا نقدر على ذلك
+(Mḫb 87)
+</p>
+</div2>
+
+<pb n="36"/>
+
+<div2 type="sentence" n="156">
+<p>
+إن المادة هى كنز العمر
+(Mḫb 88, Šz 108)
+</p>
+</div2>
+<div2 type="sentence" n="157">
+<p>
+إن الشكر موهبة من الله للعبد
+(bH 37, Mḫb 89)
+</p>
+</div2>
+<div2 type="sentence" n="158">
+<p>
+إن أردت أن تحيا حيوة صالحة فلا تعمل أعمال الرداءة
+(Mḫb 90)
+</p>
+</div2>
+<div2 type="sentence" n="159">
+<p>
+قدم كرامة الله أولا ثم كرامة الوالدين ثانيا
+(Mḫb 91)
+</p>
+</div2>
+<div2 type="sentence" n="160">
+<p>
+من لا يفعل سيئا من الشر فهو إلاهى. [يريد بالإلاهى الشريف كالملائكة]
+(Št 20, Šz 109)
+</p>
+</div2>
+<div2 type="sentence" n="161">
+<p>
+آمن بالله توفق فى أمورك
+(Št 21, Mṣr 28)
+</p>
+</div2>
+<div2 type="sentence" n="162">
+<p>
+إن الله إذا أعان سهل جميع الأمور
+(Mḫb 92)
+</p>
+</div2>
+
+<pb n="37"/>
+
+<div2 type="sentence" n="163">
+<p>
+الوالدان آلهة كبار عند من يعقل
+(Šz 110)
+</p>
+</div2>
+<div2 type="sentence" n="164">
+<p>
+الحسد غالب على أكثر طباع النساء
+(Mṣr 27, Šz 111)
+</p>
+</div2>
+<div2 type="sentence" n="165">
+<p>
+أحسن من يقدر على منفعتك
+(Šz 112)
+</p>
+</div2>
+<div2 type="sentence" n="166">
+<p>
+إن مساعدة الأشرار على فعلهم كفر بالله
+(bH 38, Št 22, Šz 113)
+</p>
+</div2>
+<div2 type="sentence" n="167">
+<p>
+أعظم القربان إلى الله حسن الإيمان
+(Mḫb 93)
+</p>
+</div2>
+<div2 type="sentence" n="168">
+<p>
+إن المغلوب من قاتل الله والبخت
+(bH 39, Št 23)
+</p>
+</div2>
+<div2 type="sentence" n="169">
+<p>
+إن خلق المرأة أردأ من أخلاق جميع السباع
+(Mḫb 94)
+</p>
+</div2>
+<div2 type="sentence" n="170">
+<p>
+ثلاثة أشياء رديئة البحر والنار والمرأة السوء
+(Mḫb 95)
+</p>
+</div2>
+
+<pb n="38"/>
+
+<div2 type="sentence" n="171">
+<p>
+اعرف الله واعقل الأمور الإنسانية
+(Št 24)
+</p>
+</div2>
+<div2 type="sentence" n="172">
+<p>
+إذا أراد الله خلاصك عبرت البحر على البارية
+(bH 40, Št 25, Mṣr 29)
+</p>
+</div2>
+</div1>
+
+<div1 type="chapter" n="9">
+<head>
+I
+</head>
+
+<div2 type="sentence" n="173">
+<p>
+إن المشورة نجح
+(Mṣr 30)
+</p>
+</div2>
+<div2 type="sentence" n="174">
+<p>
+إن العقل الذى يناطق الله لشريف
+(Št 26)
+</p>
+</div2>
+<div2 type="sentence" n="175">
+<p>
+إن قوام السنة بالرئيس
+(Št 27)
+</p>
+</div2>
+
+<pb n="39"/>
+
+<div2 type="sentence" n="176">
+<p>
+إن لفيف الناس وإن كانت لهم قوة فليس لهم عقل
+(Št 28)
+</p>
+</div2>
+<div2 type="sentence" n="177">
+<p>
+كثرة كلام الطبيب مرض آخر للعليل
+(bH 17, Mṣr 31)
+</p>
+</div2>
+</div1>
+
+<div1 type="chapter" n="10">
+<head>
+K
+</head>
+
+<div2 type="sentence" n="178">
+<p>
+ما أحسن معرفة قدر كل زمان
+(Mṣr 32)
+</p>
+</div2>
+<div2 type="sentence" n="179">
+<p>
+من عاشر الأردياء صار رديئا أيضا
+(Mḫb 96)
+</p>
+</div2>
+<div2 type="sentence" n="180">
+<p>
+إن الأدب قنية للناس حسنة
+(Mḫb 97)
+</p>
+</div2>
+<div2 type="sentence" n="181">
+<p>
+إن الزمان يميز الأصدقاء كما تميز النار الذهب
+(Mḫb 98)
+</p>
+</div2>
+<div2 type="sentence" n="182">
+<p>
+إن الرغبة شر عظيم فى الناس
+(Mḫb 99)
+</p>
+</div2>
+<div2 type="sentence" n="183">
+<p>
+عاقب الشرير إن قدرت على ذلك
+(Mḫb 100)
+</p>
+</div2>
+<div2 type="sentence" n="184">
+<p>
+ترك الإساءة بالأصدقاء أحسن
+(Mḫb 101)
+</p>
+</div2>
+
+<pb n="40"/>
+
+<div2 type="sentence" n="185">
+<p>
+اختر الثناء الحسن على المال
+(Mṣr 34)
+</p>
+</div2>
+<div2 type="sentence" n="186">
+<p>
+ليس شىء أشقى من العجب
+(Mḫb 102)
+</p>
+</div2>
+<div2 type="sentence" n="187">
+<p>
+إن السكوت خير من الكلام الردىء
+(Mḫb 103)
+</p>
+</div2>
+<div2 type="sentence" n="188">
+<p>
+إن الأرباح الرديئة تجلب الخسران
+(Mḫb 104)
+</p>
+</div2>
+<div2 type="sentence" n="189">
+<p>
+الموت أحسن بمن حيوته مجلبة للعار
+(Mṣr 35)
+</p>
+</div2>
+<div2 type="sentence" n="190">
+<p>
+إن عاقبة محبى الزناء رديئة
+(Mḫb 105)
+</p>
+</div2>
+<div2 type="sentence" n="191">
+<p>
+إن الردىء لفى عذاب حيا وميتا
+(bH 18)
+</p>
+</div2>
+<div2 type="sentence" n="192">
+<p>
+ذهاب الحيوة خير من حيوة نكدة
+(bH 19)
+</p>
+</div2>
+</div1>
+
+<div1 type="chapter" n="11">
+<head>
+Λ
+</head>
+
+<div2 type="sentence" n="193">
+<p>
+إن الصناعة للناس معاش واسع
+(Mḫb 106)
+</p>
+</div2>
+
+<pb n="41"/>
+
+<div2 type="sentence" n="194">
+<p>
+إن الأحزان تولد الأمراض
+(Mḫb 107)
+</p>
+</div2>
+<div2 type="sentence" n="195">
+<p>
+إن الحيوة الصالحة مع قلة الشى خير من الحيوة الرديئة مع كثرة الشىء
+(Mḫb 108)
+</p>
+</div2>
+<div2 type="sentence" n="196">
+<p>
+إن الشكر بالكلام هو مكافأة الإحسان
+(Mḫb 109)
+</p>
+</div2>
+<div2 type="sentence" n="197">
+<p>
+كما أن الفرضة هى موضع سلامة السفن كذلك سلامة العمر عدم الحزن
+(Mḫb 110)
+</p>
+</div2>
+<div2 type="sentence" n="198">
+<p>
+إن المرأة السوء حزن لازم أبدا
+(Mḫb 111)
+</p>
+</div2>
+<div2 type="sentence" n="199">
+<p>
+لا تصدق كلام العدو وإن ظننت أنة ينصحك
+(Mḫb 112)
+</p>
+</div2>
+<div2 type="sentence" n="200">
+<p>
+العيش مع الأسد أصلح من العيش مع امرأة سيئة الخلق
+(Mḫb 113)
+</p>
+</div2>
+</div1>
+
+<div1 type="chapter" n="12">
+<head>
+М
+</head>
+
+<div2 type="sentence" n="201">
+<p>
+لا تفحص عن نسب الإنسان بل افحص عن مذهبه
+(Mṣr 37)
+</p>
+</div2>
+
+<pb n="42"/>
+
+<div2 type="sentence" n="202">
+<p>
+من أراد السعادة فينبغى أن يجتهد فى طلبها
+(Mṣr 36, Mḫb 114)
+</p>
+</div2>
+<div2 type="sentence" n="203">
+<p>
+الفضائل هو الهرب من الأشياء الرديئة [sic] أحد
+(Mḫb 115)
+</p>
+</div2>
+<div2 type="sentence" n="204">
+<p>
+لا تهرب من صاحب لك قد وقع فى بلية
+(Mḫb 116)
+</p>
+</div2>
+<div2 type="sentence" n="205">
+<p>
+إن السعادة هى تربية الوالد الحسن المذهب لولده
+(Mḫb 117)
+</p>
+</div2>
+<div2 type="sentence" n="206">
+<p>
+إن القول الجميل يذهب بالغضب
+(Mṣr 38, Mḫb 118)
+</p>
+</div2>
+<div2 type="sentence" n="207">
+<p>
+إذا كنت غنيا فاحرص أن تنفع المساكين
+(Mḫb 119)
+</p>
+</div2>
+<div2 type="sentence" n="208">
+<p>
+قد يغبط خادم المغبوطين
+(Mṣr 39)
+</p>
+</div2>
+<div2 type="sentence" n="209">
+<p>
+لا كان ما أريده بل كان ما فيه لى الخيرة
+(Mṣr 40)
+</p>
+</div2>
+
+<pb n="43"/>
+
+<div2 type="sentence" n="210">
+<p>
+إن فى العمر الطويل تكون آفات كثيرة
+(Mḫb 120)
+</p>
+</div2>
+<div2 type="sentence" n="211">
+<p>
+لا تستشر امرأة فى وقت من الأوقات
+(Mḫb 121)
+</p>
+</div2>
+<div2 type="sentence" n="212">
+<p>
+لا تعير على امرأة ولا تعظها
+(Mḫb 122)
+</p>
+</div2>
+</div1>
+
+<div1 type="chapter" n="13">
+<head>
+N
+</head>
+
+<div2 type="sentence" n="213">
+<p>
+إذا كنت شابا فأطع المشايخ
+(Mḫb 123)
+</p>
+</div2>
+<div2 type="sentence" n="214">
+<p>
+إن جميع الأشياء يكون بالسنة وبها يميز
+(Mḫb 124)
+</p>
+</div2>
+<div2 type="sentence" n="215">
+<p>
+إن السنة توجب كرامة الوالدين مثل كرامة الإله
+(Št 29)
+</p>
+</div2>
+<div2 type="sentence" n="216">
+<p>
+ر أن والديك آلهة لك
+(Št 30)
+</p>
+</div2>
+<div2 type="sentence" n="217">
+<p>
+ينبغى للعاقل اتباع السنن فى جميع الأشياء
+(Mḫb 125)
+</p>
+</div2>
+<div2 type="sentence" n="218">
+<p>
+اقهر الغضب بالفكرة الحسنة
+(Mḫb 126)
+</p>
+</div2>
+
+<pb n="44"/>
+
+<div2 type="sentence" n="219">
+<p>
+إذا أنت تزوجت فاعلم أنك قد صرت مملوكا عمرك
+(Mḫb 127)
+</p>
+</div2>
+</div1>
+
+<div1 type="chapter" n="14">
+<head>
+Ξ
+</head>
+
+<div2 type="sentence" n="220">
+<p>
+السيف يجرح الجسد والكلام يجرح النفس
+(Mṣr 41)
+</p>
+</div2>
+<div2 type="sentence" n="221">
+<p>
+إذا كنت غريبا فسر بسيرة سنن البلد
+(bH 20, Mṣr 42, Mḫb 128)
+</p>
+</div2>
+<div2 type="sentence" n="222">
+<p>
+إذا رأيت مسكينا غريبا فلا تخدعهم
+(Mḫb 129)
+</p>
+</div2>
+<div2 type="sentence" n="223">
+<p>
+إن الغربة صعبة لوجوه كثيرة
+(Mḫb 130)
+</p>
+</div2>
+<div2 type="sentence" n="224">
+<p>
+إن أحسنت إلى الغرباء فاعلم أنك تكافأ فى بعض الأوقات
+(Mḫb 131)
+</p>
+</div2>
+<div2 type="sentence" n="225">
+<p>
+اعن بصيانة الغرباء ولا تقصر فى ذلك
+(Mḫb 132)
+</p>
+</div2>
+<div2 type="sentence" n="226">
+<p>
+كن صديقا صالحا للغرباء الصلحاء
+(Mḫb 133)
+</p>
+</div2>
+
+<pb n="45"/>
+
+<div2 type="sentence" n="227">
+<p>
+إذا أمكنك الزمان فلا تظلم غريبا البتة
+(Mḫb 134)
+</p>
+</div2>
+<div2 type="sentence" n="228">
+<p>
+إن العفة صالحة وهى للغرباء نافعة جدا
+(Mḫb 135)
+</p>
+</div2>
+<div2 type="sentence" n="229">
+<p>
+إذا كنت غريبا فقلل من الفضول فإن ذلك خير لك
+(Mḫb 136)
+</p>
+</div2>
+<div2 type="sentence" n="230">
+<p>
+إن من الناس من شأنهم الإحسان إلى الغرباء
+(Mḫb 137)
+</p>
+</div2>
+<div2 type="sentence" n="231">
+<p>
+إن السكوت أصلح للغريب من الكلام
+(Mḫb 138)
+</p>
+</div2>
+<div2 type="sentence" n="232">
+<p>
+إذا كنت غريبا فأكرم من يضيفك
+(Mḫb 139)
+</p>
+</div2>
+<div2 type="sentence" n="233">
+<p>
+أنصف الغرباء فلعلك تكون غريبا يوما ما
+(Mḫb 140)
+</p>
+</div2>
+</div1>
+
+<div1 type="chapter" n="15">
+<head>
+Ο
+</head>
+
+<div2 type="sentence" n="234">
+<p>
+اكتم أسرار الأصدقاء فى وقت الغضب
+(Mṣr 43)
+</p>
+</div2>
+
+<pb n="46"/>
+
+<div2 type="sentence" n="235">
+<p>
+التعاقل فى غير أوانه يورث البغضة
+(Mṣr 44)
+</p>
+</div2>
+<div2 type="sentence" n="236" name="236-237">
+<p>
+لا يطلع على ما فى نفسك ويرى ما تفعله فأضمر ما شئت ولا تفعل إلا جميلا
+(Mṣr 45-46)
+</p>
+</div2>
+<div2 type="sentence" n="238">
+<p>
+ليس مع الغضب رأى صحيح
+(Mṣr 47)
+</p>
+</div2>
+<div2 type="sentence" n="239">
+<p>
+إن الفضيلة للناس سلاح عظيم
+(Mṣr 48)
+</p>
+</div2>
+<div2 type="sentence" n="240">
+<p>
+من لم يتزوج من الناس لم يصبه بؤس
+(Mḫb 141)
+</p>
+</div2>
+<div2 type="sentence" n="241">
+<p>
+لا يكون بؤس أشد من الفقر
+(Mḫb 142)
+</p>
+</div2>
+<div2 type="sentence" n="242">
+<p>
+اهرب من اليمين وإن كنت تحلف صادقا
+(Mḫb 143)
+</p>
+</div2>
+<div2 type="sentence" n="243">
+<p>
+إن الغلام المحب للعلم يصير رجلا عالما عظيما
+(bH 21, Mṣr 49, Mḫb 144)
+</p>
+</div2>
+
+<pb n="47"/>
+
+<div2 type="sentence" n="244">
+<p>
+لا يحسن العاقل فى كل مكان
+(Mṣr 50)
+</p>
+</div2>
+<div2 type="sentence" n="245">
+<p>
+غضب الأصدقاء لا يدوم
+(Mṣr 51)
+</p>
+</div2>
+<div2 type="sentence" n="246">
+<p>
+إن الله يرى كل شىء
+(Mṣr 52)
+</p>
+</div2>
+<div2 type="sentence" n="247">
+<p>
+لا تستأهل السرقة السهر الذى يسهر لها
+(Mṣr 53)
+</p>
+</div2>
+<div2 type="sentence" n="248">
+<p>
+حيث النساء يتم كل شر
+(Mḫb 145)
+</p>
+</div2>
+<div2 type="sentence" n="249">
+<p>
+ليس يحب أحد فى دهرنا جارية ليس لها مال
+(Mḫb 146)
+</p>
+</div2>
+</div1>
+
+<div1 type="chapter" n="16">
+<head>
+Π
+</head>
+
+<div2 type="sentence" n="250">
+<p>
+أمانة الرجل أكرم من القول
+(Mḫb 147)
+</p>
+</div2>
+
+<pb n="48"/>
+
+<div2 type="sentence" n="251">
+<p>
+لا يحتمل الفقر إلا حكيم
+(Mṣr 54)
+</p>
+</div2>
+<div2 type="sentence" n="252">
+<p>
+النميمة الرديئة قد تفسد مدينة
+(Mṣr 55)
+</p>
+</div2>
+<div2 type="sentence" n="253">
+<p>
+إن الله فى كل مكان
+(Mṣr 56)
+</p>
+</div2>
+<div2 type="sentence" n="254">
+<p>
+كثير من هو صديق للطعام لا للمودة
+(Mḫb 148)
+</p>
+</div2>
+<div2 type="sentence" n="255">
+<p>
+ينبغى للسعيد أن يحفظ وصايا الآباء
+(Mḫb 149)
+</p>
+</div2>
+<div2 type="sentence" n="256">
+<p>
+كثير من شقى بسبب النساء
+(Mḫb 150)
+</p>
+</div2>
+<div2 type="sentence" n="257">
+<p>
+كثير من له بخت ولا عقل له
+(Mḫb 151)
+</p>
+</div2>
+<div2 type="sentence" n="258">
+<p>
+إن الأب من ربى لا من ولد
+(Št 31, Mṣr 57)
+</p>
+</div2>
+<div2 type="sentence" n="259">
+<p>
+قد يصلح البخت سوء الفعال
+(Mṣr 58)
+</p>
+</div2>
+
+<pb n="49"/>
+
+<div2 type="sentence" n="260">
+<p>
+كل من حسن لفظة سلامه كان محبوبا
+(Mṣr 59)
+</p>
+</div2>
+</div1>
+
+<div1 type="chapter" n="17">
+<head>
+Ρ
+</head>
+
+<div2 type="sentence" n="261">
+<p>
+إن الكلام فى غير وقته يفسد العمر كله
+(Št 32)
+</p>
+</div2>
+<div2 type="sentence" n="262">
+<p>
+إذا حضر البخت تمت الأمور
+(Št 33)
+</p>
+</div2>
+<div2 type="sentence" n="263">
+<p>
+لا تقدر على استرداد ما تكلمت به
+(Mṣr 60)
+</p>
+</div2>
+<div2 type="sentence" n="264">
+<p>
+إن الكسل هو فساد العمر كله
+(Mṣr 61, Mḫb 152)
+</p>
+</div2>
+<div2 type="sentence" n="265">
+<p>
+العظة أسهل من الصبر على المصيبة
+(Mṣr 62)
+</p>
+</div2>
+<div2 type="sentence" n="266">
+<p>
+خلص نفسك من كل مذهب ردىء
+(Mḫb 153)
+</p>
+</div2>
+<div2 type="sentence" n="267">
+<p>
+من صح بدنه طاب عيشه
+(Mḫb 154)
+</p>
+</div2>
+<div2 type="sentence" n="268">
+<p>
+إن المرأة كثيرة الدغل والدنس
+(Mḫb 155)
+</p>
+</div2>
+
+<pb n="50"/>
+
+<div2 type="sentence" n="269">
+<p>
+يسهل عليك المعاش إن اجتنبت النساء
+(Mḫb 156)
+</p>
+</div2>
+</div1>
+
+<div1 type="chapter" n="18">
+<head>
+Σ
+</head>
+
+<div2 type="sentence" n="270">
+<p>
+مشورة الحكيم محكة لحكمته
+(Mṣr 65)
+</p>
+</div2>
+<div2 type="sentence" n="271">
+<p>
+كن مشيرا بالخير لا بالشر
+(Mḫb 157)
+</p>
+</div2>
+<div2 type="sentence" n="272">
+<p>
+خذ نفسك بمذاهب الأحرار
+(Mḫb 158)
+</p>
+</div2>
+<div2 type="sentence" n="273">
+<p>
+من كثرت عثراته كان غير حكيم
+(Mḫb 159)
+</p>
+</div2>
+<div2 type="sentence" n="274">
+<p>
+إن الذى أصاب القول الحسن لقد كان رجلا حكيما
+(Mḫb 160)
+</p>
+</div2>
+<div2 type="sentence" n="275">
+<p>
+لا مشير خير من الزمان
+(Mṣr 66)
+</p>
+</div2>
+<div2 type="sentence" n="276">
+<p>
+إن الحكمة أكرم من القنية بأضعاف كثيرة
+(Mḫb 161)
+</p>
+</div2>
+<div2 type="sentence" n="277">
+<p>
+احرص أن تكون سعادتك أبدا مع الأصدقاء
+(Mḫb 162)
+</p>
+</div2>
+
+<pb n="51"/>
+
+<div2 type="sentence" n="278">
+<p>
+نادم الأخيار لا الأشرار
+(Mḫb 163)
+</p>
+</div2>
+<div2 type="sentence" n="279">
+<p>
+ينبغى أن تتعلم من الرجل الحكيم علما حكميا
+(Mḫb 164)
+</p>
+</div2>
+<div2 type="sentence" n="280">
+<p>
+إن أركان البيت هم الأولاد الذكورة
+(Mḫb 165)
+</p>
+</div2>
+<div2 type="sentence" n="281">
+<p>
+يجب على الإنسان الشريف أن يحتمل المصائب
+(Mḫb 166)
+</p>
+</div2>
+</div1>
+
+<div1 type="chapter" n="19">
+<head>
+Τ
+</head>
+
+<div2 type="sentence" n="282">
+<p>
+لا يكون للرجل الشقى صديق البتة
+(Mḫb 167)
+</p>
+</div2>
+<div2 type="sentence" n="283">
+<p>
+قد يظن بالسعيد رجوعه إلى العقل
+(Mṣr 67)
+</p>
+</div2>
+<div2 type="sentence" n="284">
+<p>
+إن عدم المال يعرض فى كل مكان
+(Mḫb 168)
+</p>
+</div2>
+<div2 type="sentence" n="285">
+<p>
+أكثر أمور الناس بالبخت لا بجودة الرأى
+(Mṣr 68)
+</p>
+</div2>
+
+<pb n="52"/>
+
+<div2 type="sentence" n="286">
+<p>
+لا يعدم ذو مال صديقا
+(Mṣr 69)
+</p>
+</div2>
+<div2 type="sentence" n="287">
+<p>
+إن كثرة الفضول تذم فى كل موضع
+(Mḫb 169)
+</p>
+</div2>
+<div2 type="sentence" n="288">
+<p>
+إن الناس كلهم يلتذون بالنظر إلى الغنى
+(Mḫb 170)
+</p>
+</div2>
+<div2 type="sentence" n="289">
+<p>
+الأرض كلها موطن لمن يفعل فعلا حسنا
+(bH 36, Mḫb 171)
+</p>
+</div2>
+<div2 type="sentence" n="290">
+<p>
+إن معرفة الإنسان لنفسه نافعة له فى كل شىء
+(Mḫb 172)
+</p>
+</div2>
+<div2 type="sentence" n="291">
+<p>
+إن خزانة الفضيلة هى العفة
+(Mḫb 173)
+</p>
+</div2>
+<div2 type="sentence" n="292">
+<p>
+إن سنن الطبيعة لا تتعلم
+(Št 34)
+</p>
+</div2>
+<div2 type="sentence" n="293">
+<p>
+من مدح رجلا وذمه لم يكن رجلا حكيما
+(Mḫb 174)
+</p>
+</div2>
+
+<pb n="53"/>
+
+<div2 type="sentence" n="294">
+<p>
+إن الشكر يذهب سريعا من جميع الناس
+(Mḫb 175)
+</p>
+</div2>
+<div2 type="sentence" n="295">
+<p>
+إن الحيوة بغير حزن لعمر لذيذ
+(Mḫb 176)
+</p>
+</div2>
+<div2 type="sentence" n="296">
+<p>
+إن كثرة الأعمال تجلب أحزانا كثيرة
+(Mḫb 177)
+</p>
+</div2>
+<div2 type="sentence" n="297">
+<p>
+يجب على ذوى السعادة منفعة الأصدقاء
+(Mḫb 178)
+</p>
+</div2>
+<div2 type="sentence" n="298">
+<p>
+لا يعبأ بكلام الفقراء
+(Mṣr 70)
+</p>
+</div2>
+<div2 type="sentence" n="299">
+<p>
+إن جميع الناس يشتهون الكرامة
+(Mḫb 179)
+</p>
+</div2>
+<div2 type="sentence" n="300">
+<p>
+من نظر إلى من كان أخس منه لم يغتم
+(Mḫb 180)
+</p>
+</div2>
+</div1>
+
+<div1 type="chapter" n="20">
+<head>
+Υ
+</head>
+
+<div2 type="sentence" n="301">
+<p>
+لا تغلب اللذة على العاقل
+(bH 23, Mḫb 181)
+</p>
+</div2>
+
+<pb n="54"/>
+
+<div2 type="sentence" n="302">
+<p>
+لا تكثر من مديح نفسك
+(Mḫb 182)
+</p>
+</div2>
+<div2 type="sentence" n="303">
+<p>
+إن الصحة والعقل لأمران فاضلان فى العمر
+(bH 24, Mḫb 183)
+</p>
+</div2>
+<div2 type="sentence" n="304" name="304-305">
+<p>
+إن النوم يشبه يشبه الموت والنوم أيضا سبب صحة كل عمر
+(Mḫb 184-185)
+</p>
+</div2>
+<div2 type="sentence" n="306">
+<p>
+إن المرأة الجميلة معجبة بنفسها
+(Mḫb 186)
+</p>
+</div2>
+<div2 type="sentence" n="307">
+<p>
+إن المال يورث الشتم أو اللوم
+(bH 25, Mḫb 187)
+</p>
+</div2>
+<div2 type="sentence" n="308">
+<p>
+أذهب عن مذهبك الأمور القبيحة
+(Mḫb 188)
+</p>
+</div2>
+<div2 type="sentence" n="309">
+<p>
+ينبغى أن تفهم المرأة والصديق
+(Mḫb 189)
+</p>
+</div2>
+<div2 type="sentence" n="310" name="310-311">
+<p>
+إن النوم سلامة الجسد والنوم أيضا يكسر الجوع الشديد
+(Mḫb 191-192)
+</p>
+</div2>
+</div1>
+
+<pb n="55"/>
+
+<div1 type="chapter" n="21">
+<head>
+Φ
+</head>
+
+<div2 type="sentence" n="312">
+<p>
+لا تطرح صديقك فى بلية إذا أنت غضبت
+(Mḫb 190)
+</p>
+</div2>
+<div2 type="sentence" n="313">
+<p>
+إن الصديق إذا سعى لصديقه فإنه إنما سعى لنفسه
+(Mṣr 72, Mḫb 193)
+</p>
+</div2>
+<div2 type="sentence" n="314">
+<p>
+ليس بين الصديق الضار والعدو فرق
+(bH 26)
+</p>
+</div2>
+<div2 type="sentence" n="315">
+<p>
+امدح الأصدقاء أكثر من مدحك لنفسك
+(bH 27)
+</p>
+</div2>
+<div2 type="sentence" n="316">
+<p>
+إن اتخاذ الأولاد ارتباط محبة عظيمة
+(bH 28, Mḫb 194)
+</p>
+</div2>
+<div2 type="sentence" n="317">
+<p>
+إذا كان لك أصدقاء فاعلم أن لك كنوزا
+(bH 29, Mḫb 195)
+</p>
+</div2>
+<div2 type="sentence" n="318">
+<p>
+كن محبا للتعب يحسن حالك
+(bH 30)
+</p>
+</div2>
+</div1>
+
+<div1 type="chapter" n="22">
+<head>
+Χ
+</head>
+
+<div2 type="sentence" n="319">
+<p>
+إن الأشياء كلها تكون وتميز بالزمان
+(Mḫb 196)
+</p>
+</div2>
+
+<pb n="56"/>
+
+<div2 type="sentence" n="320">
+<p>
+إن المرأة فى البيت مؤذية كأذى الشتاء
+(Mḫb 197)
+</p>
+</div2>
+<div2 type="sentence" n="321">
+<p>
+إذا أحسن إليك فى وقت حاجتك فكاف عليه فى الوقت الذى ينبغى
+(Mḫb 198)
+</p>
+</div2>
+<div2 type="sentence" n="322">
+<p>
+اضبط لسانك وافهم ما تتكلم به
+(Mḫb 199)
+</p>
+</div2>
+<div2 type="sentence" n="323">
+<p>
+اذكر ما نالك من الإحسان وانس ما تفعل من الإحسان
+(bH 31)
+</p>
+</div2>
+<div2 type="sentence" n="324">
+<p>
+إن الزمان يفنى كل شىء وينسى كل أمر
+(bH 32, Mḫb 200)
+</p>
+</div2>
+<div2 type="sentence" n="325">
+<p>
+إن اليد تغسل اليد والإصبع الإصبع
+(Št 35, Mṣr 73, Mḫb 201)
+</p>
+</div2>
+</div1>
+
+<div1 type="chapter" n="23">
+<head>
+Ψ
+</head>
+
+<div2 type="sentence" n="326">
+<p>
+لا يخفى كذب الكاذب زمانا طويلا
+(Mḫb 202)
+</p>
+</div2>
+
+<pb n="57"/>
+
+<div2 type="sentence" n="327" name="327-328">
+<p>
+عود نفسك الأمور الصالحة فإنه ليس شىء أكرم من النفس
+(Mḫb 203-204)
+</p>
+</div2>
+<div2 type="sentence" n="329">
+<p>
+لا تكون للكذب عاقبة صالحة
+(Mḫb 205)
+</p>
+</div2>
+<div2 type="sentence" n="330">
+<p>
+إن العقل لجام عظيم لأنفس الناس
+(bH 33, Mḫb 206)
+</p>
+</div2>
+<div2 type="sentence" n="331">
+<p>
+إن طبيب النفس المريضة هو الكلام الحسن الصالح
+(bH 42, Mḫb 207)
+</p>
+</div2>
+<div2 type="sentence" n="332">
+<p>
+كل حكيم وكل رجل صالح يبغض الكذب
+(Mḫb 208)
+</p>
+</div2>
+<div2 type="sentence" n="333">
+<p>
+من عاش تماما كثر غمه
+(bH 43, Mḫb 209)
+</p>
+</div2>
+<div2 type="sentence" n="334">
+<p>
+إن المدح والذم أمران متضادان
+(Mḫb 210)
+</p>
+</div2>
+</div1>
+
+<div1 type="chapter" n="24">
+<head>
+Ω
+</head>
+
+<div2 type="sentence" n="335">
+<p>
+ما ألذ الحيوة إذا لم يشبها حسد
+(bH 44)
+</p>
+</div2>
+<div2 type="sentence" n="336">
+<p>
+ما أحسن الحسن إن كان مع صاحبه عقل وعفة
+(Mṣr 33)
+</p>
+</div2>
+
+<pb n="58"/>
+
+<div2 type="sentence" n="337">
+<p>
+إن التزويج غاية حدود الشقاء
+(bH 45, Mḫb 211)
+</p>
+</div2>
+<div2 type="sentence" n="338">
+<p>
+ما أصلح للأحرار الأفعال الصالحة
+(Mḫb 212)
+</p>
+</div2>
+<div2 type="sentence" n="339">
+<p>
+ما ألذ ذكر المصائب عند من سلم منها
+(Mḫb 213)
+</p>
+</div2>
+<div2 type="sentence" n="340">
+<p>
+إن العقل مع الذهن الحسن لمغبوط
+(Mḫb 214)
+</p>
+</div2>
+<div2 type="sentence" n="341">
+<p>
+إن الحيوة الصالحة مع المذاهب الرديئة لا تتفق
+(bH 46, Mḫb 215)
+</p>
+</div2>
+<div2 type="sentence" n="342">
+<p>
+ما ألذ الجماع وأكثر أحزانه
+(bH 47, Mḫb 216)
+</p>
+</div2>
+<div2 type="sentence" n="343">
+<p>
+لا تتعب فيما لا منفعة فيه
+(bH 22)
+</p>
+</div2>
+
+<pb n="59"/>
+
+<div2 type="sentence" n="344">
+<p>
+الشيب كل عيب
+(Mṣr 24)
+</p>
+</div2>
+<div2 type="sentence" n="345">
+<p>
+القطر بدوامه يحتفر الصحر
+(bH 34, Mṣr 63)
+</p>
+</div2>
+<div2 type="sentence" n="346">
+<p>
+إن تباطأت فى السير فالزمان يسرع بك
+(Mṣr 64)
+</p>
+</div2>
+<div2 type="sentence" n="347">
+<p>
+مشورة البخت أنفع مشورة
+(bH 41)
+</p>
+</div2>
+<div2 type="sentence" n="348">
+<p>
+لا يكون حمل ... أثقل من العجب
+(Mṣr 71)
+</p>
+</div2>
+<div2 type="sentence" n="349" name="349-350">
+<p>
+والحرمان مع الحرص والع مع القناعة والأمن مع العفاف والسلامة مع الوحدة
+(Mṣr 74-75)
+</p></div2></div1></body></text></TEI.2>

@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>Sententiae (version Men ar II)</title>
+ <author>pseudo-Menander</author>
+ <editor>Manfred Ullmann</editor>
+ <funder>Andrew W. Mellon Foundation</funder>
+ </titleStmt>
+ <sourceDesc>
+ <biblStruct>
+ <monogr>
+ <author>pseudo-Menander</author>
+ <title>Die arabische Überlieferung der sogenannten
+~~Menandersentenzen</title>
+ <editor>Manfred Ullmann</editor>
+ <imprint>
+ <pubPlace>Wiesbaden</pubPlace>
+ <publisher>Kommissionsverlag Franz Steiner</publisher>
+ <biblScope unit="pp" from="64" to="73">64-73</biblScope>
+ <date>1961</date>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <editorialDecl default="NO">
+ <correction status="high" default="NO" method="silent">
+ <p>Data Entry</p>
+ </correction>
+ </editorialDecl>
+ <refsDecl n="text=1" doctype="TEI.2">
+ <state unit="text"/>
+ <state unit="sentence"/>
+ </refsDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage default="NO">
+ <language id="arabic">Arabic</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+
+<text lang="arabic" id="tlg0541.perseus001.alpheios-text-ara2"><body>
+
+<pb n="64"/>
+
+<div1 type="sentence" n="1">
+<p>
+الفظ بخير نشيطا وتعلمه أيضا
+</p>
+</div1>
+<div1 type="sentence" n="2">
+<p>
+فضيلة الرجل من لفظه تعرف
+</p>
+</div1>
+<div1 type="sentence" n="3">
+<p>
+اختر فى الأول أن تحسن عبادتك لله
+</p>
+</div1>
+<div1 type="sentence" n="4">
+<p>
+غايته صالحة [sic] الرأى الخبيث لن تكن
+</p>
+</div1>
+<div1 type="sentence" n="5">
+<p>
+أكرم الوالدين واستحى من الشيوخ
+</p>
+</div1>
+<div1 type="sentence" n="6">
+<p>
+إن زينة المرأة مذهبها وليس ذهبها
+</p>
+</div1>
+<div1 type="sentence" n="7">
+<p>
+لا تتهاون بأحد من أجل فقره وعسره
+</p>
+</div1>
+<div1 type="sentence" n="8">
+<p>
+ما أشد بصر النساء بإصابة الحيل
+</p>
+</div1>
+<div1 type="sentence" n="9">
+<p>
+الموافق [sic] اسمع الأشياء كلها واختار
+</p>
+</div1>
+<div1 type="sentence" n="10">
+<p>
+عداوة غير مائتة لا تحفظ إذ كنت مائتا
+</p>
+</div1>
+
+<pb n="65"/>
+
+<div1 type="sentence" n="11">
+<p>
+دم أن تضبط لسانك... عظيما
+</p>
+</div1>
+<div1 type="sentence" n="12">
+<p>
+إن لطائف النساء ضحكة عند الأعفاء
+</p>
+</div1>
+<div1 type="sentence" n="13">
+<p>
+كن للأصدقاء والغرباء عادلا
+</p>
+</div1>
+<div1 type="sentence" n="14">
+<p>
+إن الفقر لشديد ولكن اليسر الردىء شر منه
+</p>
+</div1>
+<div1 type="sentence" n="15">
+<p>
+إن كنت يا فاضل ميتا فليكن فكرك أيضا ميتا
+</p>
+</div1>
+<div1 type="sentence" n="16">
+<p>
+إن للحق عينا هى تبصر كل شىء
+</p>
+</div1>
+<div1 type="sentence" n="17">
+<p>
+إن مذهب الإنسان يعرف من الفضة خاصة
+</p>
+</div1>
+<div1 type="sentence" n="18">
+<p>
+إن العيش الردىء الموت خير منه
+</p>
+</div1>
+<div1 type="sentence" n="19">
+<p>
+إنا نعيش بغير فكر إذا لم نبصر الموت
+</p>
+</div1>
+
+<pb n="66"/>
+
+<div1 type="sentence" n="20">
+<p>
+الخلق السىء يبعد من الله ومن الكافة
+</p>
+</div1>
+<div1 type="sentence" n="21">
+<p>
+أخلاق الكل فى الزمان الكبير تجرب
+</p>
+</div1>
+<div1 type="sentence" n="22">
+<p>
+تحفظ من الغضب فإن العقل بعيد منه
+</p>
+</div1>
+<div1 type="sentence" n="23">
+<p>
+ما أحسن للإنسان أن يضبط غيظه وشهوته
+</p>
+</div1>
+<div1 type="sentence" n="24">
+<p>
+سبيل مصائب أصدقائك أن تكون عندك كمصائبك
+</p>
+</div1>
+<div1 type="sentence" n="25">
+<p>
+كن مساويا لكل أحد وإن زدت عليهم فى الغنى
+</p>
+</div1>
+<div1 type="sentence" n="26">
+<p>
+ما أحسن للإنسان أن يفتقر فقرا جميلا ولا يستغنى غناء قبيحا
+</p>
+</div1>
+<div1 type="sentence" n="27">
+<p>
+الآن يميز الأصدقاء كم تميزالنار الذهب
+</p>
+</div1>
+
+<pb n="67"/>
+
+<div1 type="sentence" n="28">
+<p>
+إذا ما أحببت نفسك كثيرا فلن تقتنى صديقا
+</p>
+</div1>
+<div1 type="sentence" n="29">
+<p>
+إن الأدب مثل ميناء للناس أجمعين
+</p>
+</div1>
+<div1 type="sentence" n="30">
+<p>
+لا تجعل نفسك أبدا للذة عبدا
+</p>
+</div1>
+<div1 type="sentence" n="31">
+<p>
+اذكر إذا كنت غنيا أن تنفع الفقراء
+</p>
+</div1>
+<div1 type="sentence" n="32">
+<p>
+سبيل كل عفيف أن يتبع النواميس
+</p>
+</div1>
+<div1 type="sentence" n="33">
+<p>
+تصور أنك غنى إذا كثر أصدقاءك
+</p>
+</div1>
+<div1 type="sentence" n="34">
+<p>
+إن أنت كفيت الغرباء وصلت فى وقت إلى مثل ما تصنع
+</p>
+</div1>
+<div1 type="sentence" n="35">
+<p>
+وبخ نفسك كائنا من كنت إذا أتيت فاحشا
+</p>
+</div1>
+<div1 type="sentence" n="36">
+<p>
+ستعيش عيشا طيبا إن ملكت غيظك
+</p>
+</div1>
+<div1 type="sentence" n="37">
+<p>
+سبيلك أن تعيش وتقدر معيشتك بقدر مدتك
+</p>
+</div1>
+
+<pb n="68"/>
+
+<div1 type="sentence" n="38">
+<p>
+إما أن تقول خيرا وإلا فأمسك
+</p>
+</div1>
+<div1 type="sentence" n="39">
+<p>
+إن اللسان سبب لكثير من الشرور
+</p>
+</div1>
+<div1 type="sentence" n="40">
+<p>
+ألجم الغضب حتى لا تسقط خارج العقل
+</p>
+</div1>
+<div1 type="sentence" n="41">
+<p>
+إن المرأة أشد وحشة من الوحوش
+</p>
+</div1>
+<div1 type="sentence" n="42">
+<p>
+كن بالسوية حاكما لأصدقائك وغير أصدقائك
+</p>
+</div1>
+<div1 type="sentence" n="43">
+<p>
+إن الوقوع فى قبضة النساء مثل السقوط فى النار
+</p>
+</div1>
+<div1 type="sentence" n="44">
+<p>
+إن ثمر الأخلاق الجميلة ثمر جميل
+</p>
+</div1>
+<div1 type="sentence" n="45">
+<p>
+ذاك منك بغضب [sic] عاقب إذا ما حكمت ولكن لا يكون
+</p>
+</div1>
+<div1 type="sentence" n="46">
+<p>
+إن الصديق الصالح طبيب الأحزان
+</p>
+</div1>
+<div1 type="sentence" n="47">
+<p>
+لا تحكم وأنت تنظر إلى الحسن بل إلى المذهب
+</p>
+</div1>
+<div1 type="sentence" n="48">
+<p>
+لا تهرب من صديق إن سقط فى سوء
+</p>
+</div1>
+
+<pb n="69"/>
+
+<div1 type="sentence" n="49">
+<p>
+إن العقل رئيس على كل شىء من المنافع
+</p>
+</div1>
+<div1 type="sentence" n="50">
+<p>
+لقد يحسن الصمت بالأحداث أكثر من الكلام
+</p>
+</div1>
+<div1 type="sentence" n="51">
+<p>
+إذا رأيت غرباء فقربهم ولا تبعدهم
+</p>
+</div1>
+<div1 type="sentence" n="52">
+<p>
+عول أن أوصاف (؟) الفضيلة وصوفك
+</p>
+</div1>
+<div1 type="sentence" n="53">
+<p>
+تصور أن الذين هم غرباء من الفضيلة هم أيضا غرباء عندك
+</p>
+</div1>
+<div1 type="sentence" n="54">
+<p>
+ليس شىء من القنية خير من الصديق
+</p>
+</div1>
+<div1 type="sentence" n="55">
+<p>
+إن العمر له نقل غير معروفة
+</p>
+</div1>
+<div1 type="sentence" n="56">
+<p>
+إن الزمان يصير لجماعة معلما
+</p>
+</div1>
+<div1 type="sentence" n="57">
+<p>
+لا تؤثر أن تستقصى عن سيئات غيرك
+</p>
+</div1>
+
+<pb n="70"/>
+
+<div1 type="sentence" n="58">
+<p>
+خلص نفسك من كل طريقة غير صالحة
+</p>
+</div1>
+<div1 type="sentence" n="59">
+<p>
+إذا كنت دنسا فلن يكون لك صديق صالح
+</p>
+</div1>
+<div1 type="sentence" n="60">
+<p>
+احفظ نفسك حرا فى أخلاقك
+</p>
+</div1>
+<div1 type="sentence" n="61">
+<p>
+اقبل مشورة من رجل حكيم
+</p>
+</div1>
+<div1 type="sentence" n="62">
+<p>
+إن اعرف نفسك نافعة لكل أحد
+</p>
+</div1>
+<div1 type="sentence" n="63">
+<p>
+الأرباح القبيحة تصنع المصائب
+</p>
+</div1>
+<div1 type="sentence" n="64">
+<p>
+ألجم هواك وقد صرت حكيما كبيرا
+</p>
+</div1>
+<div1 type="sentence" n="65">
+<p>
+إن الرجل المداجى شبكة مستورة
+</p>
+</div1>
+<div1 type="sentence" n="66">
+<p>
+إن النظر الى الله دائما ضوء للعقل
+</p>
+</div1>
+<div1 type="sentence" n="67">
+<p>
+كن محبا للتعب وقد اقتنيت عمرا حسنا
+</p>
+</div1>
+<div1 type="sentence" n="68">
+<p>
+إن صديقا محتاجا إلى صديق ليس بصديق
+</p>
+</div1>
+
+<pb n="71"/>
+
+<div1 type="sentence" n="69">
+<p>
+إن المرأة السوء شتاء شديد على البيت
+</p>
+</div1>
+<div1 type="sentence" n="70">
+<p>
+إن الكلمة الطيبة دواء للنفس المريضة
+</p>
+</div1>
+<div1 type="sentence" n="71">
+<p>
+إن السيف يجرح الجسم والكلمة تجرح العقل
+</p>
+</div1>
+<div1 type="sentence" n="72">
+<p>
+ليس أحد مع الغيظ يستقيم له الرأى الرصين
+</p>
+</div1>
+<div1 type="sentence" n="73">
+<p>
+ليس يمكن شريرا أن يستتر عن الله
+</p>
+</div1>
+<div1 type="sentence" n="74">
+<p>
+صديقا [sic] رجلا شريرا لا تقتنى
+</p>
+</div1>
+<div1 type="sentence" n="75">
+<p>
+دم أن تنضر أكثر من المقاولة فى حكم
+</p>
+</div1>
+<div1 type="sentence" n="76">
+<p>
+عصا الصديق أفضل من كرامة الشرير
+</p>
+</div1>
+<div1 type="sentence" n="77">
+<p>
+إن الوعظ أسهل من الصبر على العارض
+</p>
+</div1>
+<div1 type="sentence" n="78">
+<p>
+إن الصمت أفضل من أن يتكلم الإنسان بما لا ينبغى
+</p>
+</div1>
+
+<pb n="72"/>
+
+<div1 type="sentence" n="79">
+<p>
+أذا جاورت الحكماء خرجت أنت أيضا حكيما
+</p>
+</div1>
+<div1 type="sentence" n="80">
+<p>
+إن العيش هذا هو أن لا يعيش الواحد لنفسه وحدها
+</p>
+</div1>
+<div1 type="sentence" n="81">
+<p>
+فى حسن العبادة التطوع والقنوت تكلم وتعلم
+</p>
+</div1>
+<div1 type="sentence" n="82">
+<p>
+لن يملك عاقل من قبل لذة
+</p>
+</div1>
+<div1 type="sentence" n="83">
+<p>
+ماء بحر طريقة المتصعبين
+</p>
+</div1>
+<div1 type="sentence" n="84">
+<p>
+احفظ نفسك من سقطة غيرك لا تضحك
+</p>
+</div1>
+<div1 type="sentence" n="85">
+<p>
+اهرب من لذة تؤول فيها بعد مضرة
+</p>
+</div1>
+<div1 type="sentence" n="86">
+<p>
+قد ينبغى أن يسر الأحرار من الآلام
+</p>
+</div1>
+<div1 type="sentence" n="87">
+<p>
+ما سبيل الإنسان أن يفرح بالأمور الفواحش
+</p>
+</div1>
+<div1 type="sentence" n="88">
+<p>
+إن عشق الأجسام حتف على النفوس
+</p>
+</div1>
+
+<pb n="73"/>
+
+<div1 type="sentence" n="89">
+<p>
+إن العقل لجام كبير للشره
+</p>
+</div1>
+<div1 type="sentence" n="90">
+<p>
+إن الذين رأستهم أجوافهم قد انتزعت منهم عقولهم
+</p>
+</div1>
+<div1 type="sentence" n="91">
+<p>
+إن الصغير لكبير إذا أعطى فى وقته
+</p>
+</div1>
+<div1 type="sentence" n="92">
+<p>
+يا شيخوخة إنك لشر سبيل الناس أن يهربوا منه
+</p></div1></body></text></TEI.2>
